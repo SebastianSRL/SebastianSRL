@@ -4,7 +4,7 @@
 
 I'm a software engineer with +3 years of experience developing and implementing state-of-the-art works related to computer vision for research purposes. Now, I want to transition from academia to the industry, seeking to contribute my knowledge and my drive to learn in order to bring innovative machine learning solutions to real-world problems. I am always looking to improve and add new tools to my set of skills. I believe all my skills and motivation will be assets for any machine learning project. I am actively looking for an opportunity to join a company that aims to harness my efforts to solve real-world challenges.
 
-# Languajes & Tools 💻
+# Languages & Tools 💻
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=45 height=45/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width=45 height=45/>
