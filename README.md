@@ -20,7 +20,8 @@ I'm a software engineer with +3 years of experience developing and implementing 
 
 # Contact
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 height="auto"/> [LinkedIn](https://www.linkedin.com/in/sbstnai/)
-
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 height="auto"/> [LinkedIn](https://www.linkedin.com/in/sbstnai/)
+  
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width=30 height="auto"/> [Hackerrank](https://www.hackerrank.com/sebastian_river4)
      
 
