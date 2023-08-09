@@ -4,7 +4,7 @@
 I'm a software engineer with +3 years of experience developing deep learning solutions to solve computer vision tasks. Now, I want to transition from academia to the industry, seeking to contribute my knowledge and my drive to learn in order to bring innovative machine learning solutions to real-world problems. I am always looking to improve and add new tools to my set of skills. I believe all my skills and motivation will be assets for any machine learning project. I am actively looking for an opportunity to join a company that aims to harness my efforts to solve real-world challenges.
 
    <p align="left">
-      <a href="sebastian.rivera.leon2000@gmail.com">
+      <a href="mailto:sebastian.rivera.leon2000@gmail.com">
          <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/sbstnai/">
          <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
