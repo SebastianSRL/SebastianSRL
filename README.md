@@ -1,7 +1,10 @@
-# 🧗 Sebastian Rivera 
-**`Machine Learning Engineer | Data Scientist | Computer scientist`**
 
-I'm a software engineer with +3 years of experience developing deep learning solutions to solve computer vision tasks. Now, I want to transition from academia to the industry, seeking to contribute my knowledge and my drive to learn in order to bring innovative machine learning solutions to real-world problems. I am always looking to improve and add new tools to my set of skills. I believe all my skills and motivation will be assets for any machine learning project. I am actively looking for an opportunity to join a company that aims to harness my efforts to solve real-world challenges.
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<!-- # 🧗 Sebastian Rivera -->
+<!-- **`Machine Learning Engineer | Data Scientist | Computer scientist`** -->
+
+I'm an enthusiastic data scientist  with +2 years of experience developing deep learning solutions to solve computer vision tasks. I'm constantly on a drive to learn new techniques and tools to solve real-life problems    based on machine learning methods. All coding projects aim to solve different problems or improve existing solutions. 
+
 
    <p align="left">
       <a href="mailto:sebastian.rivera.leon2000@gmail.com">
