@@ -51,7 +51,7 @@ I'm an enthusiastic data scientist  with +2 years of experience developing deep 
 <br/>
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebastianSRL&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSRL&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSRL&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
     		  
 </p>
 <br>
